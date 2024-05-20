@@ -21,8 +21,12 @@
 }
 
 #paragraph1, #paragraph2, #paragraph3 {
-   text-align: center;     
-      
+   text-align: center;        
+   color: blueviolet;
+}
+
+.paragraph1{
+   text-align: center;          
 }
 
 .hr {
